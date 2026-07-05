@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Gabriel%20Moreno%20Ribeiro&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20COO%20%40%20HIBEEX%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/gabrielmorenoribeiro-H">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+%26+AI+Product+Engineer;Co-Founder+%26+COO+%40+HIBEEX;BSc+CS+%26+Economics+%40+St+Andrews;Building+B2B+Financial+Intelligence+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+%26+AI+Product+Engineer;Co-Founder+%26+COO+%40+HIBEEX;LALA+%26+Funda%C3%A7%C3%A3o+Estudar+Alumni;Building+B2B+Financial+Intelligence+with+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/University%20of%20St%20Andrews-BSc%20(Hons)%20CS%20%26%20Economics-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Global%20Merit%20Scholar-8B5CF6?style=for-the-badge&logo=starship&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20Salvador%2C%20Brazil%20→%20St%20Andrews%2C%20UK-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LALA-Latin%20America%20Leadership%20Academy-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Estudar-PREP%20Program%20Alumni-8B5CF6?style=for-the-badge&logo=starship&logoColor=white" />
+<img src="https://img.shields.io/badge/📍%20Salvador%2C%20Bahia%2C%20Brazil-4F46E5?style=for-the-badge" />
 
 <br/><br/>
 
@@ -34,7 +34,7 @@
 ```typescript
 const gabriel = {
   role: "Co-Founder & COO @ HIBEEX",
-  education: "BSc (Hons) Computer Science & Economics — University of St Andrews",
+  education: ["LALA — Latin America Leadership Academy", "Fundação Estudar — PREP Program"],
   focus: ["Full Stack Engineering", "AI/ML Products", "B2B FinTech"],
   mindset: "Product Engineering — ship fast, measure impact, iterate",
 };
@@ -256,7 +256,7 @@ Physics education hardware for public schools.
 | 🧪 **IChO National Finalist** | International Chemistry Olympiad Brazilian selection |
 | 🥇 **Gold — National Science Olympiad (ONC)** | Plus Gold: ONNEQ, OBB (Biotech), OMEM, OQJ, 2× ONEE, 2× Math Sans Frontières Intl |
 | 💰 **R$1.5M+ in Merit Scholarships** | Full scholarships at Brazil's top 4 prep schools (Ari de Sá, Farias Brito, Poliedro, Estratégia) |
-| 🎓 **Global Merit Scholarship** | University of St Andrews — BSc (Hons) CS & Economics |
+| 🎓 **PREP Program — Fundação Estudar** | 1 of ~70 fellows selected from 10,000+ candidates nationwide (0.7% acceptance) |
 | 📊 **SAT 1510/1600** | Math: 780 (98th percentile global) · Top 1% in Brazil |
 | 🏛️ **Colégio Militar de Salvador** | Admitted at age 10 — 1 of 30 selected from 2,000+ candidates · "Alamar" distinction 5 consecutive years |
 | 🚀 **Canastra Ventures AI Residency** | 1 of 6 startups selected (2.5% acceptance) · Youngest founding team in history |
@@ -300,12 +300,12 @@ Physics education hardware for public schools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmorenoribeiro-H&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=6366F1&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorenoribeiro-H&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielmorenoribeiro-H&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorenoribeiro-H&layout=compact&theme=tokyonight" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=gabrielmorenoribeiro-H&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180"/>
+<img src="https://streak-stats.demolab.com?user=gabrielmorenoribeiro-H&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -315,7 +315,7 @@ Physics education hardware for public schools.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielmorenoribeiro-H&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title_color=8B5CF6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielmorenoribeiro-H&theme=tokyonight&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -325,7 +325,7 @@ Physics education hardware for public schools.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmorenoribeiro-H&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=A78BFA&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmorenoribeiro-H&theme=tokyo-night" width="100%"/>
 
 </div>
 
@@ -339,6 +339,8 @@ Physics education hardware for public schools.
 
 </div>
 
+> ⚠️ A cobra só aparece depois de você configurar a GitHub Action abaixo — ela **não funciona sozinha**, precisa gerar o SVG automaticamente todo dia.
+
 ---
 
 ## 🎯 Current Focus
@@ -347,7 +349,7 @@ Physics education hardware for public schools.
 learning:
   - Advanced LLM orchestration & agentic workflows
   - Distributed systems & scalable data pipelines
-  - Computer Science & Economics @ University of St Andrews
+  - Leadership & entrepreneurship @ LALA (Latin America Leadership Academy)
 
 building:
   - HIBEEX — AI-powered B2B financial intelligence platform
@@ -385,6 +387,10 @@ open_to:
 <div align="center">
 
 ### *"Ship fast. Measure impact. Iterate relentlessly."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
