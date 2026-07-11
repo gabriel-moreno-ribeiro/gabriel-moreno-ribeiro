@@ -1,29 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Gabriel%20Moreno%20Ribeiro&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%26%20COO%20%40%20HIBEEX%20%20%7C%20%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=56&descSize=18" width="100%"/>
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="413" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="494" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-<a href="https://github.com/gabrielmorenoribeiro-H">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+%26+AI+Product+Engineer;Co-Founder+%26+COO+%40+HIBEEX;Building+B2B+Financial+Intelligence+with+AI;LALA+%26+Funda%C3%A7%C3%A3o+Estudar+Alumni;R%24800K+Pre-Seed+Backed+Founder;Ship+Fast+%C2%B7+Measure+Impact+%C2%B7+Iterate" alt="Typing SVG" />
-</a>
+## Gabriel Moreno Ribeiro
 
-<br/>
+**Co-Founder & COO @ HIBEEX · Full Stack & AI Engineer · B2B FinTech**
 
-<img src="https://img.shields.io/badge/LALA-Latin%20America%20Leadership%20Academy-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Estudar-PREP%20Program%20Alumni-8B5CF6?style=for-the-badge&logo=starship&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20Salvador%2C%20Bahia%2C%20Brazil-4F46E5?style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-hibeex.com.br-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://hibeex.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--moreno--ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-moreno-ribeiro)
+[![Email](https://img.shields.io/badge/Email-gabrielmribeiro%40hibeex.com.br-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmribeiro@hibeex.com.br)
 
-<br/><br/>
+<br>
 
-<a href="https://hibeex.com.br"><img src="https://img.shields.io/badge/🌐%20Portfolio-6D28D9?style=for-the-badge&logoColor=white" /></a>
-<a href="https://linkedin.com/in/gabriel-moreno-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gabrielmribeiro@hibeex.com.br"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/gabrielmorenoribeiro-H"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=gabrielmorenoribeiro-H&style=flat-square&color=8B5CF6&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/gabrielmorenoribeiro-H?style=flat-square&color=6366F1&labelColor=1a1b27&label=Followers" />
-<img src="https://img.shields.io/github/stars/gabrielmorenoribeiro-H?style=flat-square&color=4F46E5&labelColor=1a1b27&label=Stars" />
+<!-- gráfico de contribuições animado, atualizado diariamente pelo workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 </div>
 
@@ -341,64 +336,6 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmorenoribeiro-H&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorenoribeiro-H&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gabrielmorenoribeiro-H&theme=tokyonight&hide_border=true&background=1A1B27" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmorenoribeiro-H&theme=tokyonight" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmorenoribeiro-H&theme=tokyonight&utcOffset=-3" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmorenoribeiro-H&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielmorenoribeiro-H&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmorenoribeiro-H&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmorenoribeiro-H/gabrielmorenoribeiro-H/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmorenoribeiro-H/gabrielmorenoribeiro-H/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gabrielmorenoribeiro-H/gabrielmorenoribeiro-H/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
@@ -424,6 +361,30 @@ open_to:
 
 next_stop: "Silicon Valley — October 2026 🚀"
 ```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:gabrielmribeiro@hibeex.com.br"><img src="https://img.shields.io/badge/Email-gabrielmribeiro%40hibeex.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+<br/>
+<a href="https://linkedin.com/in/gabriel-moreno-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-gabriel--moreno--ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+<br/>
+<a href="https://github.com/gabrielmorenoribeiro-H"><img src="https://img.shields.io/badge/GitHub-gabrielmorenoribeiro--H-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
+<br/>
+<a href="https://hibeex.com.br"><img src="https://img.shields.io/badge/Portfolio-hibeex.com.br-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Ship fast. Measure impact. Iterate relentlessly."*
+
+</div>
 
 ---
 
