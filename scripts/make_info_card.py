@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = True
 
-W, H = 560, 344
+W, H = 480, 344
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -42,10 +42,10 @@ ROWS = [
     ("kv", "Langs", "PT (native) | EN (advanced) | ES (basic-intermediate)"),
     ("gap",),
     ("sec", "Mission"),
-    ("bul", "Solve structural problems in Brazil using cutting-edge technology (currently AI)"),
+    ("txt", "Solve structural problems in Brazil using"),("txt", "cutting-edge technology (currently AI)"),
     ("gap",),
     ("sec", "Next"),
-    ("bul", "Pitching Silicon Valley VCs | Oct 2026"),
+    ("txt", "Pitching Silicon Valley VCs | Oct 2026"),
 ]
 
 
@@ -102,6 +102,9 @@ for i, row in enumerate(ROWS):
         key, val = esc(row[1]), esc(row[2])
         inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{KEY}" font-size="12.5" font-weight="700">{key}</text>'
                  f'<text x="{VAL_X}" y="{y:.1f}" fill="{INK}" font-size="12.5">{val}</text>')
+    elif kind == "txt":
+        txt = esc(row[1])
+        inner = f'<text x="{KEY_X+10}" y="{y:.1f}" fill="{INK}" font-size="12.5">{txt}</text>'
     elif kind == "bul":
         txt = esc(row[1])
         inner = (f'<circle cx="{KEY_X+3}" cy="{y-4:.1f}" r="2.5" fill="{GREEN}"/>'
