@@ -38,7 +38,7 @@ ROWS = [
     ("kv", "Now", "Co-founder @ HIBEEX"),
     ("kv", "Focus", "AI back office for small businesses"),
     ("kv", "Based", "Salvador, BA -> Sao Paulo, SP, Brazil"),
-    ("kv", "Fellow", "LALA | Fundacao Estudar"),
+    ("kv", "Fellow", "LALA (Univ. Placement) | Fundacao Estudar"),
     ("kv", "Langs", "PT (native) | EN (fluent) | ES (basic)"),
     ("gap",),
     ("sec", "Mission"),

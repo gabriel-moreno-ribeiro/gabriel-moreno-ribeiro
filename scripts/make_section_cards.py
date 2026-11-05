@@ -39,7 +39,9 @@ def card_hibeex():
         "in the same situation, my co-founder Teodoro and I made it a company "
         "(February 2026).",
         "As co-founder I do code and business: sales, fundraising, finance and law. "
-        "So far: 42 clients, 73% less manual work, and a $100K offer. We moved to "
+        "I built the multi-agent pipeline (TypeScript, AWS, Next.js) that runs 23 "
+        "workflows at 94% accuracy on site at 2 clients. So far: 42 clients, 73% less "
+        "manual work, and a US$100K investment offer. We moved to "
         "Sao Paulo in April, worked inside a client's office from July, and since "
         "October build out of Ithaca, Taqtile's house, where co-founder Edmar "
         "Miyake mentors us and backs HIBEEX.",
@@ -111,7 +113,7 @@ VENTURES = [
     ("Science Olympiad Club", "President, Colegio Militar de Salvador", "2022 - 2024", CYAN,
      ["400+ members (57% of the school) | VP, Math Division Head, Army liaison",
       "Coached 215 students: ~60 won national gold or silver"]),
-    ("Anisio Teixeira Initiative", "Free olympiad prep for low-income students", "2023 - Present", GREEN,
+    ("Anisio Teixeira Initiative", "Free olympiad prep for low-income students in Salvador", "2023 - 2024", GREEN,
      ["Founder & president, team of 9 volunteers | 8 schools, 678 students",
       "25 national medals (4 gold)"]),
     ("National Physics Competition", "Co-creator, free olympiad open to all of Brazil", "2024 - 2025", SECTION,
@@ -120,9 +122,11 @@ VENTURES = [
     ("Principia Alumni Association", "Vice President", "2023 - Present", SECTION,
      ["94 members | founded the Hackathon Club | hosted 7 PhD talks",
       "Co-led fundraising: ~US$60K | interviewed 32 applicants"]),
-    ("FinTech Savings RCT", "Behavioral economics research, Fundacao Estudar", "2025", SECTION,
-     ["Randomized controlled trial, n=208 public-school students: +130% savings",
-      "Mentored by Aaron Litvin, Ph.D. (Harvard)"]),
+    ("Budgeting Tools RCT", "Research Fellow in Behavioral Economics, Fundacao Estudar", "2025 - 2026", SECTION,
+     ["3-month randomized experiment, n=208 public-school olympiad medalists (ages 11-18)",
+      "Reported saving rose from 44% to 91-101% of disposable income (~R$71/month)",
+      "Then audited my own result: data can't separate money saved from changed reporting",
+      "175-page open-code monograph with the follow-up design | advised by Aaron Litvin, Ph.D. (Harvard)"]),
     ("GSAT Education", "Test-prep platform built from scratch", "Nov 2025 - May 2026", GREEN,
      ["Product, engineering and go-to-market"]),
     ("Refurbished Laptops", "Online store, self-taught repair since 7th grade", "2022 - 2026", MUTED,
@@ -160,14 +164,15 @@ def card_ventures():
 # ============================================================ HONORS
 HONORS = [
     ("28 Olympiad Medals (18 Gold, 5 Silver, 5 Bronze)", "37 olympiads, ~7,000 training hours since grade 5 | finalist, Brazil's IChO team selection | IMPA fellow", GOLD),
-    ("SAT 1570/1600", "Reading & Writing 770, Math 800", GREEN),
+    ("SAT 1570/1600", "Math 800 (>99th percentile), Reading & Writing 770 (99th percentile), Oct. 2026", GREEN),
     ("Gold, Brazilian Public Schools Physics Olympiad", "1st in Bahia; led to a research grant", GOLD),
     ("National Silver, Brazilian Public Schools Math Olympiad", "2nd in my school, 5th in Bahia", CYAN),
     ("Research presentations, IIP & IFT-UNESP", "Top 2% of 700+; the only one from my region", GREEN),
     ("Finalist, Behring Founders", "Fellowship that funds young tech founders; top 5% of 1,200+ applicants", RED),
-    ("Youngest founders, Canastra AI Residence", "Top 1% of 1K+ | WOW Accelerator finalist, top 4% of 276", RED),
+    ("Youngest founders, Canastra AI Residence", "1 of 6 startups from 1K+ applicants | WOW Accelerator finalist, 1 of 11 from 276", RED),
+    ("LALA Start finalist & European Innovation Academy", "US$10K prize | only Brazilians accepted into EIA's fully funded program (10 of 5,000+)", RED),
     ("~US$172K Merit Scholarships & Research Funding", "Full scholarships at Ari de Sa & Farias Brito + Poliedro & Estrategia Militares", CYAN),
-    ("LALA & Fundacao Estudar", "Latin American Leadership Academy | Fundacao Estudar fellow", SECTION),
+    ("LALA & Fundacao Estudar", "Mentee, LALA University Placement Program 2026-27 | Fundacao Estudar fellow", SECTION),
 ]
 
 
@@ -190,9 +195,10 @@ def card_honors():
 def card_certifications():
     prompt = "gabriel@github: ~$ cat certifications.yaml"
     rows = [
-        ("AWS", "AWS Activate, USD 10,000 active credits", GOLD),
-        ("Calculus", "AP-equivalent, Schoolhouse (recognized by MIT, CalTech, Columbia)", CYAN),
-        ("Chemistry", "AP-equivalent, Schoolhouse by Khan Academy", GREEN),
+        ("English", "Duolingo English Test 130/160, CEFR C1 (Advanced), Aug. 2026", RED),
+        ("Credits", "Claude for Startups & AWS Activate, US$100,000 in credits", GOLD),
+        ("Calculus", "AP/College Calculus, Schoolhouse.world (recognized by MIT, CalTech, Columbia)", CYAN),
+        ("Chemistry", "AP/College Chemistry, Schoolhouse.world by Khan Academy", GREEN),
     ]
     h = 30 + 30 + len(rows) * LH + 18
     parts = chrome(W, h, prompt)
@@ -213,7 +219,8 @@ def card_now():
         ("learning", GREEN, ["Advanced LLM orchestration & agentic workflows",
                              "Distributed systems & scalable data pipelines",
                              "Leadership & entrepreneurship"]),
-        ("exploring", SECTION, ["AI applications in accounting automation",
+        ("exploring", SECTION, ["AI agents on top of legacy back-office software",
+                                "Hardware lifecycle engineering (repair, don't replace)",
                                 "Behavioral economics x product design"]),
         ("open_to", GOLD, ["Builder Roles | AI/ML Roles",
                            "Open Source collaboration | Founder & investor conversations"]),
