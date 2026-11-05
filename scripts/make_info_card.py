@@ -35,17 +35,17 @@ HOST = "gabriel"
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Co-Founder & CEO @ HIBEEX"),
-    ("kv", "Focus", "Full Stack Builder | AI/LLM | B2B FinTech"),
-    ("kv", "Based", "Salvador, BA, Brazil | Sao Paulo, SP, Brazil"),
+    ("kv", "Now", "Co-founder @ HIBEEX"),
+    ("kv", "Focus", "AI back office for small businesses"),
+    ("kv", "Based", "Salvador, BA -> Sao Paulo, SP, Brazil"),
     ("kv", "Fellow", "LALA | Fundacao Estudar"),
-    ("kv", "Langs", "PT (native) | EN (advanced) | ES (basic-intermediate)"),
+    ("kv", "Langs", "PT (native) | EN (fluent) | ES (basic)"),
     ("gap",),
     ("sec", "Mission"),
     ("txt", "Solve structural problems in Brazil using"),("txt", "cutting-edge technology (currently AI)"),
     ("gap",),
     ("sec", "Next"),
-    ("txt", "Pitching Silicon Valley VCs | Oct 2026"),
+    ("txt", "Computer engineering & a hardware startup"),
 ]
 
 

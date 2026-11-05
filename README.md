@@ -9,7 +9,7 @@
 
 ## Gabriel Moreno Ribeiro
 
-**Co-Founder & CEO @ HIBEEX · Full Stack Builder · B2B FinTech**
+**Co-founder @ HIBEEX · Founder @ Projeto Candela · Software, AI & hardware**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--moreno--ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-moreno-ribeiro)
 [![Email](https://img.shields.io/badge/Email-gabrielmribeiro%40hibeex.com.br-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmribeiro@hibeex.com.br)
@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=haskell,ocaml,scala,clojure,zig,nim,lua,perl,php,ruby,c,r&theme=dark" />
 
 <details>
-<summary><b>32 things I wrote from scratch, in 30 languages</b> (one per chapter of build-your-own-x, all with tests and CI)</summary>
+<summary><b>Things I wrote from scratch</b> (one per chapter of build-your-own-x, all with tests and CI)</summary>
 <br>
 
 | | | |

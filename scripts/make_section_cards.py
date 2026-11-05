@@ -29,19 +29,20 @@ def text(x, y, s, fill=INK, size=13, weight=None, anchor=None):
 def card_hibeex():
     prompt = "gabriel@github: ~$ cat hibeex.md"
     paras = [
-        "HIBEEX is a B2B financial intelligence platform: it connects to the ERPs "
-        "Brazilian SMBs already use (Omie, Conta Azul, Nibo, VHSYS), syncs their "
-        "financial data automatically, and turns it into AI-powered cash-flow "
-        "analysis and executive insight, replacing manual spreadsheets.",
-        "As founding builder I architected and shipped the full-stack MVP "
-        "end-to-end: ERP-to-database sync pipelines, transaction reconciliation "
-        "and categorization engines, multi-tenant auth with RBAC, REST API "
-        "layers, automated ingestion jobs, Claude-powered executive narrative "
-        "generation, and interactive KPI dashboards.",
-        "Today HIBEEX serves major accounting operations, clients managing 600+ "
-        "accounting bases, including the 6th largest Sistema Dominio user in "
-        "Brazil, under a 12% revenue-share partnership with VHSYS (~20,000 "
-        "clients).",
+        "HIBEEX is a fintech startup with full AI back-office services for Brazil's "
+        "small businesses. Our AI agents connect to the old software a business "
+        "already pays for, then do the manual work on top: taxes, forms, insurance "
+        "claims, whatever they need.",
+        "It began inside my father's dental clinic. At 14, after he had to let his "
+        "staff go, I took over its accounting and finances and built tools to save "
+        "my parents time. After four years of that and 96 conversations with owners "
+        "in the same situation, my co-founder Teodoro and I made it a company "
+        "(February 2026).",
+        "As co-founder I do code and business: sales, fundraising, finance and law. "
+        "So far: 42 clients, 73% less manual work, and a $100K offer. We moved to "
+        "Sao Paulo in April, worked inside a client's office from July, and since "
+        "October build out of Ithaca, Taqtile's house, where co-founder Edmar "
+        "Miyake mentors us and backs HIBEEX.",
     ]
     lines = []
     for p in paras:
@@ -99,26 +100,34 @@ def card_skills():
 
 # ============================================================ VENTURES
 VENTURES = [
-    ("GSAT Education", "Adaptive SAT prep EdTech", "Oct 2025 - Present", GREEN,
-     ["3,200+ annotated-solutions DB + proprietary personalization algorithm",
-      "71 students mentored; 53 improved from ~900 to 1300+ SAT",
-      "R$50K+ revenue bootstrapped, 100% reinvested",
-      "Intl partnerships: Uzbek tech firm, CT Nicolas Santos, CSA Authority"]),
-    ("Projeto Candela", "Physics lab kits for public schools", "Jun 2022 - Present", GOLD,
-     ["Kits + QR video lessons in 28 schools | 3,392 students (BA & CE)",
-      "Grades up 40%; physics failure rate cut 30% -> 10% in 6 months",
-      "Funded by PIBIC Jr/UFBA grant + R$8K crowdfunding | pitched at 60+ schools"]),
-    ("FinTech Savings RCT", "Behavioral economics research", "Jan 2025 - Apr 2026", SECTION,
-     ["Randomized Controlled Trial, n=208 public-school students",
-      "+130% total savings in treatment group",
-      "Supervised by Dr. Aaron Litvin (Ph.D., Harvard) | policy recs for BNCC"]),
-    ("Chemical Kinetics", "Computational modeling, Instituto Principia", "Jun 2023 - Jun 2025", RED,
-     ["Steady-State Approximation of complex mechanisms | 59-page thesis",
-      "97% simulation accuracy (Haber-Bosch, stratospheric ozone)",
-      "Under Dr. Juliano Bonacin (Ph.D., USP)"]),
-    ("Refurbished Electronics", "E-commerce venture", "Jan 2021 - Dec 2024", MUTED,
-     ["Imported, repaired & shipped hardware to 150+ clients in 21 BR states",
-      "~USD 7,000 revenue; 75% reinvested in education"]),
+    ("Projeto Candela", "Registered NGO with the Federal University of Bahia", "2023 - Present", GOLD,
+     ["Founder & lead engineer: kit design, fundraising & partners",
+      "140 low-cost physics lab kits in 28 public schools with no lab | 3K+ students",
+      "Physics failure rate fell from 30% to 10%"]),
+    ("Steady-State Hypothesis", "Research Fellow, Instituto Principia", "2023 - 2026", RED,
+     ["137-page thesis advised by 2 USP/JHU PhDs | US$3K scholarship",
+      "Python models of ozone depletion (CFCs) & Haber-Bosch ammonia reactors",
+      "Off by up to 37%, 'total' version within 14% | held in ~92% of 1,938 enzyme measurements"]),
+    ("Science Olympiad Club", "President, Colegio Militar de Salvador", "2022 - 2024", CYAN,
+     ["400+ members (57% of the school) | VP, Math Division Head, Army liaison",
+      "Coached 215 students: ~60 won national gold or silver"]),
+    ("Anisio Teixeira Initiative", "Free olympiad prep for low-income students", "2023 - Present", GREEN,
+     ["Founder & president, team of 9 volunteers | 8 schools, 678 students",
+      "25 national medals (4 gold)"]),
+    ("National Physics Competition", "Co-creator, free olympiad open to all of Brazil", "2024 - 2025", SECTION,
+     ["4-stage mock olympiad for students with no school lab: 26 states, 2K students",
+      "40 simulated-experiment problems"]),
+    ("Principia Alumni Association", "Vice President", "2023 - Present", SECTION,
+     ["94 members | founded the Hackathon Club | hosted 7 PhD talks",
+      "Co-led fundraising: ~US$60K | interviewed 32 applicants"]),
+    ("FinTech Savings RCT", "Behavioral economics research, Fundacao Estudar", "2025", SECTION,
+     ["Randomized controlled trial, n=208 public-school students: +130% savings",
+      "Mentored by Aaron Litvin, Ph.D. (Harvard)"]),
+    ("GSAT Education", "Test-prep platform built from scratch", "Nov 2025 - May 2026", GREEN,
+     ["Product, engineering and go-to-market"]),
+    ("Refurbished Laptops", "Online store, self-taught repair since 7th grade", "2022 - 2026", MUTED,
+     ["121 laptops fixed for clients & resale, shipped to 21 of Brazil's 26 states",
+      "US$7K earned to pay olympiad courses, fund Candela & help at home"]),
 ]
 
 
@@ -150,14 +159,15 @@ def card_ventures():
 
 # ============================================================ HONORS
 HONORS = [
-    ("39 Olympiad Medals (19 Gold)", "49 science olympiads, 7,000+ study hours, 2 intl awards. Includes Gold at ONNEQ, OBB, OMEM, OQJ, 2x ONEE, 2x Math Sans Frontieres Intl", GOLD),
-    ("SAT 1510/1600", "Math 780 (98th percentile global), Top 1% in Brazil", GREEN),
-    ("R$1.5M+ Merit Scholarships", "Full rides at Brazil's top 4 prep schools", CYAN),
-    ("LALA Leadership Academy", "Latin American Leadership Academy fellow", SECTION),
-    ("Fundacao Estudar", "1 of ~70 fellows from 10,000+ candidates (0.7% acceptance)", SECTION),
-    ("Canastra Ventures AI Residency", "R$800K pre-seed, 1 of 6 startups (2.5%), youngest founding team ever", RED),
-    ("Colegio Militar de Salvador", "Admitted at age 10 (1 of 30 from 2,000+), Alamar 5 consecutive years", CYAN),
-    ("IIP Selection", "1 of 14 among 700+ candidates, International Institute of Physics", GREEN),
+    ("28 Olympiad Medals (18 Gold, 5 Silver, 5 Bronze)", "37 olympiads, ~7,000 training hours since grade 5 | finalist, Brazil's IChO team selection | IMPA fellow", GOLD),
+    ("SAT 1570/1600", "Reading & Writing 770, Math 800", GREEN),
+    ("Gold, Brazilian Public Schools Physics Olympiad", "1st in Bahia; led to a research grant", GOLD),
+    ("National Silver, Brazilian Public Schools Math Olympiad", "2nd in my school, 5th in Bahia", CYAN),
+    ("Research presentations, IIP & IFT-UNESP", "Top 2% of 700+; the only one from my region", GREEN),
+    ("Finalist, Behring Founders", "Fellowship that funds young tech founders; top 5% of 1,200+ applicants", RED),
+    ("Youngest founders, Canastra AI Residence", "Top 1% of 1K+ | WOW Accelerator finalist, top 4% of 276", RED),
+    ("~US$172K Merit Scholarships & Research Funding", "Full scholarships at Ari de Sa & Farias Brito + Poliedro & Estrategia Militares", CYAN),
+    ("LALA & Fundacao Estudar", "Latin American Leadership Academy | Fundacao Estudar fellow", SECTION),
 ]
 
 
@@ -183,7 +193,6 @@ def card_certifications():
         ("AWS", "AWS Activate, USD 10,000 active credits", GOLD),
         ("Calculus", "AP-equivalent, Schoolhouse (recognized by MIT, CalTech, Columbia)", CYAN),
         ("Chemistry", "AP-equivalent, Schoolhouse by Khan Academy", GREEN),
-        ("English", "Duolingo English Test 125/160 (CEFR B2)", SECTION),
     ]
     h = 30 + 30 + len(rows) * LH + 18
     parts = chrome(W, h, prompt)
