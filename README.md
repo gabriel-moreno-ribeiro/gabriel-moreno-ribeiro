@@ -12,7 +12,7 @@
 **Co-founder @ HIBEEX · Founder @ Projeto Candela · Software, AI & hardware**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--moreno--ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-moreno-ribeiro)
-[![Email](https://img.shields.io/badge/Email-gabrielmribeiro%40hibeex.com.br-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmribeiro@hibeex.com.br)
+[![Email](https://img.shields.io/badge/Email-me%40gabrielmr.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@gabrielmr.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55_71_98407--2589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571984072589)
 
 <br>
@@ -86,7 +86,7 @@
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-gabrielmribeiro%40hibeex.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gabrielmribeiro@hibeex.com.br)
+[![Email](https://img.shields.io/badge/Email-me%40gabrielmr.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:me@gabrielmr.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--moreno--ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gabriel-moreno-ribeiro)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55_71_98407--2589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/5571984072589)
 [![GitHub](https://img.shields.io/badge/GitHub-gabriel--moreno--ribeiro-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gabriel-moreno-ribeiro)

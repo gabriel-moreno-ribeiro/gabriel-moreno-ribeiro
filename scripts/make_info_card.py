@@ -40,6 +40,7 @@ ROWS = [
     ("kv", "Based", "Salvador, BA -> Sao Paulo, SP, Brazil"),
     ("kv", "Fellow", "LALA (Univ. Placement) | Fundacao Estudar"),
     ("kv", "Langs", "PT (native) | EN (fluent) | ES (basic)"),
+    ("kv", "SAT", "1570/1600 (Math 800, R&W 770)"),
     ("gap",),
     ("sec", "Mission"),
     ("txt", "Solve structural problems in Brazil using"),("txt", "cutting-edge technology (currently AI)"),
